@@ -2,15 +2,14 @@
 Python application for PLI and Regular expression
 
 Psudo Code
-list all files
 
+1.list all files
+2.loop till all files have been moved
+3.   extract files detail
 
-loop till all files have been moved
-    extract files detail
+4.   if correspond folder exist == false :
+5.      create folder
 
-    if correspond folder exist == false :
-       create folder
+6.   move files to corresponding folder
 
-    move files to corresponding folder
-
-End
+7. End
