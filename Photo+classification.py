@@ -25,7 +25,7 @@ import re
 
 # In[2]:
 
-my_dir = r'C:\Users\User\Desktop\iceland'
+my_dir = r'Your photos directory'
 os.chdir(my_dir)
 img_list = os.listdir()
 cwd = os.getcwd()
